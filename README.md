@@ -29,3 +29,6 @@ This project analyzes abusive YouTube comments using SQL and Python to identify 
 
 ## Author
 Priyanshi Parikh
+
+## Contact
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/parikh-priyanshi/) or email: parikhp1998@gmail.com
