@@ -1,6 +1,8 @@
 # youtube-abuse-analysis
-Data analysis of abusive YouTube comments using SQL and Python. Includes topic, video, and language pattern insights for Trust &amp; Safety.
+Data analysis of abusive YouTube comments using SQL and Python. Includes topic, video, and language pattern insights for Trust & Safety.
 # YouTube Abuse Comment Analysis
+
+[View the analysis notebook](./Youtube_Comment_Abuse_Analysis.ipynb)
 
 ## Overview
 This project analyzes abusive YouTube comments using SQL and Python to identify high-risk topics, videos, and language patterns. The goal is to provide actionable insights for Trust & Safety and moderation teams.
@@ -23,6 +25,7 @@ This project analyzes abusive YouTube comments using SQL and Python to identify 
 ## How to Run
 1. Upload `ALYT_data.csv` to your Colab or Jupyter environment.
 2. Open and run all cells in the notebook.
+
 
 ## Author
 Priyanshi Parikh
